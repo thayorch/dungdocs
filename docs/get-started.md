@@ -4,10 +4,10 @@ layout: home
 hero:
   name: Dung Docs
   text: Get-started
-  tagline: Created by thayorch.
+  tagline: Created by Thadchanon Maidee (thayorch).
   image:
-    src: /author.jpg
-    alt: author
+    src: https://avatars.githubusercontent.com/u/86808076?v=4
+    alt: author.jpg
   actions:
     - theme: brand
       text: Setup Environment
