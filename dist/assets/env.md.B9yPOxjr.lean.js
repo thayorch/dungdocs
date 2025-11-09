@@ -1,1 +1,0 @@
-import{_ as t,c as n,o as a,af as o}from"./chunks/framework.lwP1vPVn.js";const d=JSON.parse('{"title":"Setup Environment","description":"","frontmatter":{},"headers":[],"relativePath":"env.md","filePath":"env.md"}'),r={name:"env.md"};function s(c,e,i,p,l,m){return a(),n("div",null,[...e[0]||(e[0]=[o("",3)])])}const u=t(r,[["render",s]]);export{d as __pageData,u as default};
