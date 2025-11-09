@@ -673,7 +673,7 @@ class MathTool {
 ```
 
 
-##  10. Inheritance (การสืบทอด)
+##  10. Inheritance 
 
 Inheritance เป็นการสร้าง Class ใหม่จาก Class เดิมโดยสืบทอดคุณสมบัติ (attributes) และพฤติกรรม (methods)
 
