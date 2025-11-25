@@ -26,5 +26,5 @@ features:
     details: Learn about Basic Programming and Problem solving with Python.
   - title: Feature C
     details: Learn about abstract concept Object-Oriented Programming with Java.
----
+--- 
 
